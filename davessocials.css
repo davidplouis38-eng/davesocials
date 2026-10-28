@@ -1,0 +1,447 @@
+
+.custom-navbar{
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 40px;
+  margin-top:18px ;
+  transition: all 0.3s ease;
+  background-color: rgb(163, 227, 254);
+}
+.custom-btn{
+  background-color: rgb(46, 37, 115);
+  border: 0px;
+  border-radius: 20px;
+  margin-right: 50px;
+  padding: 8px 18px;
+}
+/* first section */
+.firstsection {
+  background-color: rgb(163, 227, 254); 
+  background-size: cover;
+  padding: 50px 150px 50px 0px;
+  text-align: end;
+}
+.debitcard {
+  width: 100%;
+  margin-top: 20px;
+}
+.fsh1 {
+  font-size: 80px;
+  font-family: Space Grotesk;
+  margin-top: 20px;
+}
+.fs-h1 {
+  font-size: 80px;
+  color: rgb(27, 52, 141);
+  font-family: Space Grotesk;
+}
+.fsp {
+  font-family: Manrope;
+  font-size: 16px;
+}
+.fs-btn1 {
+  border: 0px;
+  border-radius: 24px;
+  padding: 14px 18px;
+  background-color: rgb(27, 52, 141);
+  color: white;
+  margin-right: 20px;
+}
+.fs-btn2 {
+  border: 0px;
+  border-radius: 24px;
+  padding: 14px 18px;
+  background-color: white;
+  color: black;
+  margin-bottom: 30px;
+}
+.fs-btn1:hover{
+  background-color: rgb(27, 46, 113);
+}
+.fs-btn2:hover{
+  background-color: rgb(241, 237, 237);
+}
+.fsspan {
+  margin-right: 480px;
+  margin-bottom: 250px;
+  border: 1px solid rgb(27, 24, 24);
+  border-radius: 25px;
+  padding: 8px 8px;
+  background-color: rgb(27, 24, 24);
+  color: white;
+  font-size: 12px;
+}
+.fs-span1 {
+  margin-top: 40px;
+}
+.fs-span1 {
+  margin-right: 20px;
+}
+.fs-span2 {
+  margin-right: 20px;
+}
+.fs-icon {
+  margin-right: 10px;
+}
+/* second section */
+.secondsection {
+  padding: 50px 200px 50px 100px;
+}
+.sch1 {
+  text-align: center;
+  font-family: Space Grotesk;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+.sch3 {
+  margin-bottom: 30px;
+  margin-top: 10px;
+  font-family: Manrope;
+  font-weight: 600;
+  font-size: 30px;
+}
+.scp {
+  margin-bottom: px;
+}
+.scspan {
+  margin-left: 560px;
+   padding: 12px 34px;
+  background-color: rgb(27, 52, 141);;
+  color: white;
+  font-size: 12px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family:Manrope ;
+  
+}
+.sc-card {
+  background-color: rgb(247, 247, 247);
+  border: 0px;
+  border-radius: 30px;
+
+}
+.sc-img {
+  width: 550px;
+}
+.threecardsimg{
+  width: 600px;
+  height: 284px;
+}
+.sc-scimg1{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  /* margin-bottom: 140px; */
+}
+/* Third section */
+.thirdsection {
+  padding: 50px 100px 50px 100px;
+}
+.tscard {
+  background-color: rgb(247, 247, 247);
+  border: 0px;
+  border-radius: 30px;
+}
+.tsh3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-family: Manrope;
+}
+
+
+.tscard-1image{
+  width: 380px;
+  height: 230px;
+}
+.tscrd-image1{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.tscard-2image{
+  width: 380px;
+  height: 252px;
+}
+.tscrd-image2{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  padding-bottom: 20px;
+}
+.tscard-3image{
+  width: 380px;
+  height: 252px;
+}
+.tscrd-image3{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  padding-bottom: 20px;
+}
+/* Fourth section */
+.fourthsection{
+background-color: rgb(163, 227, 254);
+ padding: 50px 100px 50px 100px;
+}
+.fsch1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 240px;
+  font-family: Space Grotesk;
+}
+.fsc-span{
+  padding: 30px 2px;
+  background-color: rgb(27, 52, 141); 
+  border: 1px solid rgb(27, 52, 141); 
+  width: 92px;
+  border-radius: 15px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.fscicon{
+  color: white;
+  font-size: 30px;
+  margin-left: 24px;
+}
+.fsc-card{
+  border: 0px;
+  border-radius: 25px;
+}
+.fsch3{
+  font-family: Manrope;
+  margin-bottom: 20px;
+}
+.fscp{
+  font-size: 100;
+  color: rgb(96, 100, 105);;
+}
+.fscp2{
+  font-size: 100;
+  color: rgb(96, 100, 105);;
+  margin-bottom: 40px;
+}
+.fsc-Hspan{
+  margin-left: 560px;
+   padding: 12px 34px;
+  background-color: rgb(27, 52, 141);;
+  color: white;
+  font-size: 12px;
+  border-radius: 20px;
+  font-weight: 500;
+  font-family:Manrope ;
+  
+}
+/* fifth section */
+.fifthsection{
+  padding: 50px 100px 50px 100px;
+}
+.nav-btn{
+  display: flex;
+  gap: 24px;
+  
+}
+.circle{
+  width: 72px;
+  height: 72px;
+  border: 0;
+  padding: 0;
+  border-radius: 50%;
+  background-color: rgb(27, 52, 141);
+  margin-bottom: 20px;
+}
+.circle:hover{
+  background-color: rgb(12, 31, 103);
+}
+.fisc-itags{
+  font-size: 20px;
+  color: white;
+}
+.fifsc-col1{
+  border: 0;
+  background-color: rgb(27, 24, 24);
+  color: white;
+  border-top-left-radius: 35px;
+  border-bottom-right-radius: 35px;
+}
+.fifsc-h3{
+  font-family: Space Grotesk;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.fifsc-p{
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 60px;
+}
+.fifsc-span{
+  font-size: 20px;
+  font-family: Manrope;
+  font-weight: 700;
+}
+.fifsch3{
+   font-family: Space Grotesk;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+.fifsc-col7div{
+  margin-top: 60px;
+}
+.fifsc-col4-2{
+  border-left: 3px solid rgb(96, 100, 105);;
+  padding-left: 20px;
+}
+.fifsc-col4-3{
+  border-left: 3px solid rgb(96, 100, 105);;
+  padding-left: 20px;
+}
+.fifsc-col4-h1{
+  font-size: 50px;
+  margin-left: 40px;
+}
+.fifsc-col4-p{
+  margin-left: 40px;
+}
+/* sixth section */
+.sixthsection{
+  padding: 50px 80px 50px 100px;
+  background-color: rgb(163, 227, 254);
+}
+.sixsc-h3{
+  font-size: 50px;
+  margin-top: 30px;
+  font-family: Space Grotesk;
+  margin-bottom: 20px;
+  
+}
+.sixsc-p{
+  font-family: manrope;
+  font-size: 15px;
+  margin-bottom: 30px;
+  max-width: 600px;
+}
+.sixsc-col1 {
+  background-color:  rgb(214, 249, 255);
+}
+.sixsc-img{
+  background-color:  rgb(163, 227, 254);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: right;
+}
+.sixsc-div1{
+  width: 490px;
+  height: 350px;
+}
+.sixsc-btn{
+  border: 0;
+  background-color: rgb(27, 52, 141);
+  color: white;
+  padding: 14px 24px;
+  border-radius: 25px;
+}
+.sixsc-btn:hover{
+  background-color: rgb(11, 29, 93);
+}
+/* seventh section */
+.seventhsection{
+  padding: 80px 80px 80px 80px;
+}
+.sev-cardbody{
+  background-image: url(images/bluesilverbackground.jpeg);
+  border: 0;
+  border-radius: 55px;
+  text-align: center;
+}
+.svnsc-h3{
+  font-size: 50px;
+  color: white;
+  margin-left: 300px;
+  margin-right: 280px;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+.svnsc-p{
+  color: white;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.svnsc-btn{
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 20px;
+  margin-bottom: 80px;
+  border: 0;
+  background-color: white;
+  border-radius: 25px;
+  padding: 14px 20px;
+
+}
+.svnsc-btn:hover{
+  background-color: aliceblue;
+}
+.svnsc-col{
+  background-image: url(images/spiral-bg.webp);
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* Eight Section */
+.Eightsection{
+  padding: 50px 60px 50px 60px;
+  background-color: rgb(163, 227, 254); 
+}
+.eightimg-span{
+  background-color: rgb(163, 227, 254);
+  border: 0;
+}
+.eight-img1{
+  width: 40px;
+  border: 5px solid rgba(163, 227, 254);
+}
+.eightsc-row{
+  font-size: 15px;
+  font-weight: 400;
+}
+.eightsc-h41{
+  margin-left: 30px;
+}
+.eightsc-h42{
+  margin-left: 30px;
+}
+.eightsc-btn1{
+  border: 0;
+  background-color: rgb(27, 52, 141);
+  padding: 10px 24px;
+  border-radius: 25px;
+  color: white;
+}
+.eightsc-btn{
+  border: 0;
+  background-color: rgb(27, 52, 141);
+  margin-bottom: 20px;
+  padding: 10px 24px;
+  border-radius: 25px;
+  color: white;
+  font-size: 14px;
+}
+.line{
+   border-bottom: 1px solid grey;
+}
+.eightsc-col10{
+  margin-top: 10px;
+   font-size: 12px;
+}
+.eightsc-col2II{
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.eightsc-ul{
+  margin-bottom: 6px;
+}

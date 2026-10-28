@@ -1,0 +1,722 @@
+@media (max-width: 380px) {
+  /* firstsection */
+  .firstsection {
+    padding: 20px 30px 20px 30px;
+    text-align: center;
+  }
+  .fsh1 {
+    font-size: 50px;
+  }
+  .fs-h1 {
+    font-size: 50px;
+  }
+  .fsspan {
+    margin-right: 90px;
+    font-size: 12px;
+  }
+  .fs-btn2 {
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  .fs-span1 {
+    font-size: 12px;
+  }
+  .fs-span2 {
+    font-size: 12px;
+  }
+  .fs-span3 {
+    font-size: 12px;
+  }
+  /* second section */
+  .secondsection {
+    padding: 20px 30px 60px 30px;
+  }
+  .threecardsimg {
+    width: 260px;
+    height: 100px;
+  }
+  .blackwoman {
+    width: 250px;
+    height: 100px;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+  }
+  .sc-img {
+    width: 220px;
+  }
+  .scspan {
+    margin-left: 90px;
+  }
+  /* Third section */
+  .thirdsection {
+    padding: 20px 30px 20px 30px;
+  }
+  .tscard {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .tscard-1image {
+    width: 260px;
+    height: 180px;
+  }
+  .tscard-2image {
+    width: 260px;
+    height: 200px;
+  }
+  .tscard-3image {
+    width: 260px;
+    height: 180px;
+  }
+  /* Fourth section */
+  .fourthsection {
+    padding: 20px 30px 20px 30px;
+  }
+  .fsch1 {
+    margin-left: 20px;
+  }
+  .fsc-Hspan {
+    margin-left: 80px;
+  }
+  .fsc-card {
+    margin-bottom: 20px;
+  }
+  /* Fifth section */
+  .fifthsection {
+    padding: 20px 30px 20px 30px;
+  }
+  .fifsc-h3 {
+    font-size: 20px;
+  }
+  .fifsc-p {
+    font-size: 14px;
+  }
+  .circle {
+    margin-left: 20px;
+  }
+  .fifsch3 {
+    font-size: 30px;
+  }
+  .fifsc-span {
+    font-size: 20px;
+  }
+  .fifsc-col4-h1 {
+    font-size: 30px;
+  }
+  /* sixth section */
+  .sixthsection {
+    padding: 20px 30px 20px 30px;
+  }
+  .sixsc-h3 {
+    font-size: 30px;
+  }
+  .sixsc-div1 {
+    width: 300px;
+    height: 205px;
+    margin-top: 20px;
+  }
+  .sixsc-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right;
+  }
+  /* seventh section*/
+  .seventhsection {
+    padding: 20px 30px 20px 30px;
+  }
+  .sev-cardbody {
+    width: 300px;
+    height: 400px;
+    text-align: center;
+  }
+  .svnsc-h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  .svnsc-p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+  }
+  .svnsc-btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    padding: 10px 4px;
+  }
+}
+@media (min-width: 381px) and (max-width: 450px) {
+  /* first section */
+  .firstsection {
+    padding: 20px 40px 20px 0px;
+    text-align: center;
+  }
+  .fsh1 {
+    font-size: 50px;
+  }
+  .fs-h1 {
+    font-size: 50px;
+  }
+  .fsspan {
+    font-size: 12px;
+    margin-right: 60px;
+  }
+  .fs-btn2 {
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  /* second section */
+  .secondsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .threecardsimg {
+    width: 300px;
+    height: 100px;
+  }
+  .blackwoman {
+    width: 300px;
+    height: 100px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+    margin-right: 20px;
+  }
+  .sc-img {
+    width: 300px;
+  }
+  .scspan {
+    margin-left: 110px;
+  }
+  /* third section */
+  .thirdsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .tscard {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .tscard-1image {
+    width: 300px;
+  }
+  .tscard-2image {
+    width: 300px;
+  }
+  .tscard-3image {
+    width: 300px;
+  }
+  /* fourth section */
+  .fourthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .fsch1 {
+    margin-left: 20px;
+  }
+  .fsc-Hspan {
+    margin-left: 80px;
+  }
+  .fsc-card {
+    margin-bottom: 30px;
+  }
+  /* fifth section */
+  .fifthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .fifsc-h3 {
+    font-size: 20px;
+  }
+  .fifsc-p {
+    font-size: 14px;
+  }
+  .circle {
+    margin-left: 20px;
+  }
+  .fifsch3 {
+    font-size: 30px;
+  }
+  .fifsc-span {
+    font-size: 20px;
+  }
+  .fifsc-col4-h1 {
+    font-size: 30px;
+  }
+  .fifsc-col1 {
+    margin-bottom: 30px;
+  }
+  /* sixth section */
+  .sixthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sixsc-h3 {
+    font-size: 30px;
+  }
+  .sixsc-div1 {
+    width: 355px;
+    height: 252px;
+    margin-top: 30px;
+  }
+  .sixsc-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right;
+  }
+  /* seventh section */
+  .seventhsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sev-cardbody {
+    width: 300px;
+    height: 420px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 16px 16px 44px 16px;
+  }
+  .svnsc-h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  .svnsc-p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .svnsc-btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    padding: 10px 4px;
+  }
+  /* eight section */
+  .eightsection {
+    padding: 20px 30px 20px 30px;
+  }
+}
+@media (min-width: 451px) and (max-width: 600px) {
+  /* first section */
+  .firstsection {
+    padding: 20px 40px 20px 0px;
+  }
+  .fsh1 {
+    font-size: 50px;
+  }
+  .fs-h1 {
+    font-size: 50px;
+  }
+
+  .fscontainer {
+    margin-left: 2px;
+  }
+  .fsspan {
+    margin-right: 30px;
+  }
+  /* second section */
+  .secondsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .threecardsimg {
+    width: 420px;
+    height: 140px;
+  }
+  .blackwoman {
+    width: 450px;
+    height: 150px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    margin-right: 20px;
+  }
+  .sc-img {
+    width: 450px;
+  }
+  .scspan {
+    margin-left: 170px;
+  }
+  /* third section */
+  .thirdsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .tscard {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  /* fourth section */
+  .fourthsection {
+    padding: 20px 40px 20px 40px;
+  }
+
+  .fsch1 {
+    margin-left: 20px;
+  }
+  .fsc-Hspan {
+    margin-left: 160px;
+  }
+  .fsc-card {
+    margin-bottom: 30px;
+  }
+  /* fifth section */
+  .fifthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .fifsc-h3 {
+    font-size: 50px;
+  }
+  .fifsc-p {
+    font-size: 14px;
+  }
+  .circle {
+    margin-left: 20px;
+  }
+  .fifsch3 {
+    font-size: 30px;
+  }
+  .fifsc-span {
+    font-size: 20px;
+  }
+  .fifsc-col4-h1 {
+    font-size: 30px;
+  }
+  .fifsc-col1 {
+    margin-bottom: 30px;
+  }
+  /* sixth section */
+  .sixthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sixsc-h3 {
+    font-size: 40px;
+  }
+  .sixsc-div1 {
+    width: 310px;
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 104px;
+  }
+  .sixsc-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* seventh section */
+  .seventhsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sev-cardbody {
+    width: 400px;
+    height: 420px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 16px 16px 44px 16px;
+  }
+  .svnsc-h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  .svnsc-p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .svnsc-btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    padding: 16px 12px;
+  }
+}
+@media (min-width: 601px) and (max-width: 850px) {
+  /* first section */
+  .firstsection {
+    padding: 20px 40px 20px 0px;
+  }
+  .fsh1 {
+    font-size: 50px;
+    text-align: center;
+  }
+  .fsp{
+    font-size: 24px;
+  }
+  .fs-h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+
+  .fscontainer {
+    margin-left: 2px;
+  }
+  .fsspan {
+    margin-right: 250px;
+  }
+  .fs-span1{
+    font-size: 24px;
+  }
+  .fs-span2{
+    font-size: 24px;
+  }
+  .fs-span3{
+    margin-right: 10px;
+    font-size: 24px; 
+  }
+  .fs-btn1{
+    font-size: 24px;
+  }
+  .fs-btn2 {
+    margin-right: 80px;
+    font-size: 24px;
+  }
+  /* second section */
+  .secondsection {
+    padding: 40px 40px 20px 40px;
+  }
+  .sch3{
+    font-size: 36px;
+  }
+  .scp{
+    font-size: 24px;
+  }
+  .threecardsimg {
+    width: 600px;
+    height: 200px;
+  }
+  .blackwoman {
+    width: 80px;
+    height: 280px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+  .sc-img {
+    width: 620px;
+  }
+  .scspan {
+    margin-left: 260px;
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  /* third section */
+  .thirdsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .tscard {
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  .tsh3{
+    font-size: 36px;
+  }
+  .tsp{
+    font-size: 24px;
+  }
+  .tscard-1image {
+    width: 650px;
+    height: 400px;
+  }
+  .tscard-2image {
+    width: 650px;
+    height: 400px;
+  }
+  .tscard-3image {
+    width: 650px;
+    height: 400px;
+  }
+  /* fourth section */
+  .fourthsection {
+    padding: 40px 40px 20px 40px;
+  }
+  .fsch1 {
+    margin-left: 20px;
+    font-size: 36px;
+    text-align: center;
+  }
+  .fsch3{
+    font-size: 36px;
+  }
+  .fscp{
+    font-size: 24px;
+  }
+  .fscp2{
+    font-size: 24px;
+  }
+  .fsc-Hspan {
+    margin-left: 250px;
+    font-size: 24px;
+  }
+  .fsc-card {
+    margin-bottom: 30px;
+  }
+  /* fifth section */
+  .fifthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .fifsch3 {
+    font-size: 38px;
+    margin-top: 30px;
+  }
+  .fifsc-span{
+    font-size: 24px;
+  }
+  .fifscp{
+    font-size: 24px;
+  }
+  /* sixth section */
+  .sixthsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sixsc-h3 {
+    font-size: 60px;
+  }
+  .sixsc-p {
+    font-size: 16px;
+  }
+  .sixsc-div1 {
+    width: 430px;
+    height: 300px;
+    margin-top: 20px;
+  }
+  .sixsc-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  /* seventh section */
+  .seventhsection {
+    padding: 20px 40px 20px 40px;
+  }
+  .sev-cardbody {
+    width: 650px;
+    height: 500px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 24px;
+    margin-left: 30px;
+  }
+  .svnsc-h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    margin-top: 50px;
+  }
+  .svnsc-p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  .svnsc-btn {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding: 16px 12px;
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 851px) and (max-width: 1200px) {
+  /* first section */
+  .firstsection{
+    padding: 20px 40px 20px 0px;
+  }
+  /* second section */
+  .secondsection{
+    padding: 20px 40px;
+  }
+  .threecardsimg{
+    width: 420px;
+  }
+  .sc-card{
+    width: 450px;
+    height: 500px;
+  }
+ 
+  .sc-img{ 
+    width: 500px;
+    height: 500px;
+  }
+  .scspan{
+    margin-left: 380px;
+  }
+  /* third section */
+  .thirdsection{
+    padding: 20px 40px;
+  }
+  .tscard-1image{
+    width: 280px;
+  }
+  .tscard-2image{
+    width: 270px;
+    height: 230px;
+  }
+  .tscard-3image{
+    width: 270px;
+    height: 230px;
+  }
+  /* fourth section */
+  .fourthsection{
+    padding: 20px 40px;
+  }
+  .fscp2{
+    margin-bottom: 47px;
+  }
+  .fscp22{
+    margin-bottom: 70px;
+  }
+  .fsch1{
+    margin-left: 40px;
+  }
+  .fsc-Hspan{
+    margin-left: 380px;
+  }
+  /* fifthsection */
+  .fifthsection{
+    padding: 20px 20px;
+  }
+  /* seventh section */
+  .seventhsection{
+    padding: 20px 40px;
+  }
+  .sev-cardbody{
+    width: 900px;
+    height: 400px;
+  }
+  .svnsc-h3 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    margin-top: 50px;
+  }
+  .svnsc-p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  .svnsc-btn {
+    margin-left: 280px;
+    margin-right: 280px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 16px 12px;
+    font-size: 20px;
+  }
+  
+}
+
